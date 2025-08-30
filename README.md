@@ -20,6 +20,7 @@ Used dataset from Kaggle: [Dataset](https://www.kaggle.com/datasets/mkechinov/ec
 
 - **SQL results** for segmentation and metrics
 - **Power BI dashboard** showcasing customer insights and CLV analysis
+- **Analytical Report** Describing all key findings
 
 ## About Me
 
