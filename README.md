@@ -1,7 +1,8 @@
 # Customers' Lifetime Values Analysis
 
 Analyzing customer behavior and segmentation.  
-This project explores events (views, carts, purchases), applies RFM segmentation, and builds insights into customer lifetime value (CLV).
+This project explores events (views, carts, purchases), applies RFM segmentation, and builds insights into customer lifetime value (CLV).     
+Used dataset from Kaggle: [Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
 
 ## Tools Used
 
@@ -12,15 +13,12 @@ This project explores events (views, carts, purchases), applies RFM segmentation
 ## What I Did
 
 - Cleaned and prepared raw customer event data
-- Performed exploratory data analysis (EDA)
 - Applied SQL queries to generate segment-level insights
-- Built an interactive Power BI dashboard to visualize patterns and performance
+- Built a Power BI dashboard to visualize patterns and performance
 
 ## What You Can Find Here
 
-- - **Raw dataset** from Kaggle:  
-    [E-commerce behavior data from multi-category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) :contentReference[oaicite:0]{index=0}
-- **SQL queries & results** for segmentation and metrics
+- **SQL results** for segmentation and metrics
 - **Power BI dashboard** showcasing customer insights and CLV analysis
 
 ## About Me
